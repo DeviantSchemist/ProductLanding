@@ -44,3 +44,17 @@ header {
 .enter .submit-form {
   margin-left: 6vh;
 }
+
+.info {
+  display: grid;
+}
+
+.item1 img {
+  float: left;
+  margin-right: 4vh;
+}
+
+.item1 h1 {
+  font-weight: bold;
+  font-size: 3vh;
+}
