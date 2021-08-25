@@ -1,8 +1,13 @@
+header {
+  margin-top: 3vh;
+}
+
 .responsive {
   max-width: 100%;
   height: auto;
   width: 10vh;
   height: 10vh;
+  margin-left: 6vh;
 }
 
 .crumbs {
@@ -14,6 +19,11 @@
   float: right;
 }
 
-.crumb {
+.nav-link {
   display: inline-block;
+  margin-right: 16vh;
+}
+
+.enter {
+  text-align: center;
 }
